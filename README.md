@@ -11,4 +11,5 @@
 #### 3.设置监听端口
 + ![start server](https://cdn.jsdelivr.net/gh/Mizhou-NJJ/jsDelivr/github_source/miniserver/app1.png)
 + 点击启动服务器，出现启动成功即可
+
   ![start server](https://cdn.jsdelivr.net/gh/Mizhou-NJJ/jsDelivr/github_source/miniserver/app2.png)
